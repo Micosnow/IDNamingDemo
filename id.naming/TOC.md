@@ -4,4 +4,4 @@
 ##[IDNaming.mail](demo1(xx@hotmail.com).md)
 ##[IDNaming.Sharp](demo2(#).md)
 ##[ID/Naming](demo-test.md)
-##[ID#Naming](demo('en-us', 'ja-jp').md)
+##[ID#Naming](demo( ).md)
